@@ -1,0 +1,21 @@
+# OS junk
+Thumbs.db       # Windows thumbnail cache
+
+# IDE settings
+.vscode/        # VS Code workspace settings
+.idea/          # JetBrains IDE configs
+
+# Python artifacts
+__pycache__/    # Python bytecode cache
+*.pyc           # Compiled Python files
+
+# Arduino build files
+*.hex           # Firmware binary
+*.elf           # Executable and Linkable Format
+
+# Logs and temp
+*.log           # Log files
+*.tmp           # Temporary files
+
+# Environment files
+.env            # Secrets like API keys or tokens
